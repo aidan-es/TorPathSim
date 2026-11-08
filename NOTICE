@@ -1,0 +1,10 @@
+TorPathSim
+Copyright (c) 2023-2026 Aidan E. S.
+
+This software is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).
+See the LICENSE file for details.
+
+EXCLUSIONS AND EXCEPTIONS:
+The academic dissertation included in this repository: "docs/Practical and Game-Theoretic Analysis of Path Selection to Defend Against Entry-Exit Correlation in the Tor Network.pdf" is Copyright (c) 2023-2026 Aidan E. S. All rights reserved.
+
+It is NOT licensed under the GNU Affero General Public License or any other open-source license. No reproduction, distribution of derivative works, or commercial use of the dissertation is permitted without explicit prior written permission from the author.

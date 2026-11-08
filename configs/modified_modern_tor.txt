@@ -1,0 +1,5 @@
+order 2 3 1
+guards 3
+pool3 -e POSITIVE -g NEGATIVE
+pool1 -e NEGATIVE -g POSITIVE
+pool2 -e IRRELEVANT -g IRRELEVANT

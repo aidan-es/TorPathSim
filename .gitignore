@@ -1,0 +1,43 @@
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Project specific
+dbdata
+tor_data
+tor_consensus
+test_consensus
+*.consensus
+*.dump
+logs/
+.junie/
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+### Kotlin ###
+.kotlin
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/

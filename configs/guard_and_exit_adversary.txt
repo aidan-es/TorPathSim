@@ -1,0 +1,3 @@
+# Adversary strategy targeting nodes that are both Guards and Exits (Dissertation Section 7.2)
+select --selectBy nodes --amount 500
+100 -g POSITIVE -e POSITIVE

@@ -1,0 +1,5 @@
+order 3 1 2
+guards 3
+pool3 -e POSITIVE
+pool1 -e NEGATIVE -g POSITIVE
+pool2 -e NEGATIVE -g NEGATIVE

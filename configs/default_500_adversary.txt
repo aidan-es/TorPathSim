@@ -1,0 +1,3 @@
+# Default adversary: 500 arbitrary nodes (Dissertation Section 7.2)
+select --selectBy nodes --amount 500
+100

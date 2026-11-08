@@ -1,0 +1,13 @@
+# Tor Directory Authorities used for fetching consensus data.
+
+[authorities]
+moria1 = "128.31.0.39:9131"
+maatuska = "171.25.193.9:443"
+serge = "66.111.2.131:9030"
+tor26 = "217.196.147.77:80"
+faravahar = "216.218.219.41:80"
+dannenberg = "193.23.244.244:80"
+dizum = "45.66.33.45:80"
+bastet = "204.13.164.118:80"
+gabelmoo = "131.188.40.189:80"
+longclaw = "199.58.81.140:80"

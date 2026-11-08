@@ -1,0 +1,26 @@
+# Auto-detect text files and normalize line endings to LF on commit
+* text=auto
+
+# Explicit text files with LF line endings
+*.kt text eol=lf
+*.kts text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.toml text eol=lf
+*.xml text eol=lf
+*.properties text eol=lf
+*.json text eol=lf
+
+# Shell scripts must always use LF
+gradlew text eol=lf
+*.sh text eol=lf
+
+# Windows scripts must always use CRLF
+gradlew.bat text eol=crlf
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Binary files
+*.jar binary
+*.pdf binary
+*.png binary
